@@ -1,4 +1,4 @@
-# Alina Biznosik
+# Alina Biaznosik
 
 ## Contacts
 
@@ -38,3 +38,7 @@ Functional testing 4+ years
 - Technical school graduate, Foreign language (English)
 - Courses:
   [Software Testing Engineer of IT Academy](https://www.it-academy.by/course/software-testing-engineer/).
+
+## Linkedin profile
+
+Feel free to visit my [Linkedin profile](https://www.linkedin.com/in/alina-biaznosik-34b753191/).
