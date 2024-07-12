@@ -86,11 +86,11 @@ body{
   width: 136px;
   padding: 5px 20px;
   text-align: center;
-  text-transform: uppercase;
   letter-spacing: 1px;
   color: #ffffff;
   background-color: #5D4E60;
   border-radius: 15px;
+  font-size: 1em;
 }
 
 .contacts ul li {
